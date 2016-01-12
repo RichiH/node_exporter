@@ -27,6 +27,7 @@ Name     | Description
 ---------|------------
 conntrack | Shows conntrack statistics if available.
 diskstats | Exposes disk I/O statistics from `/proc/diskstats`.
+entropy | Exposes available entropy
 filefd | Exposes file descriptor statistics.
 filesystem | Exposes filesystem statistics, such as disk space used.
 loadavg | Exposes load average.
